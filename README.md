@@ -6,3 +6,6 @@ Just the first day
 
 Cristian here, this is my first first interaction with code.
 I've read before a little bit, but never managed to start.
+
+I want to make some modification for today in order to see the difference
+Also, it is very interesting to see how the things go on
